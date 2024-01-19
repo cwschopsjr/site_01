@@ -456,8 +456,8 @@ body footer p a {
         content: '≡';
         position: fixed;
         z-index: 2;
-        top: 0.2rem;
-        right: 1.5rem;
+        top: 1rem;
+        right: 2rem;
         background-color: var(--primary-color);
         color: white;
         font-size: 2rem;

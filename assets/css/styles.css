@@ -83,7 +83,7 @@ p {
 }
 
 .white-background {
-    background-color: white;
+    background-color: whitesmoke;
     color: var(--primary-color);
 }
 
@@ -523,4 +523,8 @@ body footer a {
 
 .table-caption {
     text-align: center;
+}
+
+.justificado p{
+    text-align: justify;
 }
